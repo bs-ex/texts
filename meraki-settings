@@ -1,0 +1,221 @@
+-- Information --
+
+Device name
+
+Device model
+
+Serial number
+
+OS version
+
+Jailbreak status
+
+Passcode status (if you have one)
+
+Device storage (used/total)
+
+IP address
+
+All installed apps
+
+All installed profiles
+
+-- Settings --
+
+Allow use of camera
+
+Allow installing apps
+
+Allow screen capture
+
+Allow device assistant
+
+Allow Siri while locked
+
+Allow voice dialing
+
+Allow FaceTime
+
+Allow automatic sync when roaming
+
+Allow Passbook notifications while locked
+
+Allow in-app purchases
+
+Force user to enter iTunes Store password for all purchases
+
+Allow multiplayer gaming
+
+Allow adding Game Center friends
+
+Show Control Center on lock screen
+
+Show Notification Center in lock screen
+
+Show Today view in lock screen
+
+Allow documents from managed apps in unmanaged apps
+
+Allow documents from unmanaged apps in managed apps
+
+Allow Handoff
+
+Require passcode on outgoing AirPlay pairing requests
+
+Require passcode on incoming AirPlay pairing requests
+
+Force paired Apple Watch to use Wrist Detection
+
+Disallow sharing of managed documents with AirDrop
+
+Allow use of YouTube
+
+Allow use of iTunes Store
+
+Allow use of Safari
+
+Enable Autofill
+
+Force fraud warning
+
+Enable Javascript
+
+Allow popups
+
+Allow document sync
+
+Allow cloud Keychain sync
+
+Allow iCloud Photo Library
+
+Allow backup
+
+Allow backup of enterprise books
+
+Allow notes and highlights sync for enterprise books
+
+Allow photo stream
+
+Allow managed app to store data in iCloud
+
+Allow Back to My Mac
+
+Allow Find My Mac
+
+Allow Bookmark sync
+
+Allow Mail sync
+
+Allow Calendar sync
+
+Allow Reminder sync
+
+Allow Address Book sync
+
+Allow Notes sync
+
+Allow desktop and document sync
+
+Allow diagnostic data to be sent to apple
+
+Allow user to accept untrusted TLS certificates
+
+Force encrypted backup
+
+Allow automatic updates to certificate trust settings
+
+Force limited ad tracking
+
+Allow Touch ID to unlock device
+
+Allow explicit music and podcasts
+
+Allow iMessage
+
+Allow app removal
+
+Allow Game Center
+
+Allow Bookstore
+
+Allow Bookstore erotica
+
+Allow UI configuration profile installation
+
+Allow modifying account settings
+
+Allow AirDrop
+
+Allow changes to cellular data usage apps
+
+Allow user-generated content on Siri
+
+Allow modifying Find My Friend settings
+
+Allow host pairing
+
+Enable Siri profanity filter
+
+Allow configuring restrictions
+
+Allow Erase All Content and Settings
+
+Allow Podcasts
+
+Allow Internet results in Spotlight
+
+Allow keyboard auto-correction
+
+Allow keyboard spell-check
+
+Allow definition lookup
+
+Allow definition lookup
+
+Allow predictive keyboard
+
+Allow App Store
+
+Allow keyboard shortcuts
+
+Allow pairing with Apple Watch
+
+Allow modification of passcode settings
+
+Allow modification of device name
+
+Keep device name up-to-date with Dashboard
+
+Allow modification of wallpaper
+
+Allow automatic downloading of apps purchased on other devices
+
+Automatically trust enterprise apps
+
+Allow News app
+
+Allow Apple Music
+
+Allow Apple Music Radio
+
+Allow changes to Notifications settings
+
+Allow remote screen observation by the Classroom app
+
+Allow modification of diagnostic submission and app analytics settings
+
+Allow modification of Bluetooth settings
+
+Allow dictation input
+
+Enforce Wi-Fi whitelisting
+
+Automatically grant observation permission to teachers using Classroom app
+
+Enable Single App mode
+
+Enable Global HTTP Proxy
+
+Enable web content filter
+
+Restrict App Usage [either, “Allow all apps”, “Do not allow the following apps” & “Only allow the following apps]
